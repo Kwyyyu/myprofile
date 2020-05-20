@@ -1,0 +1,14 @@
+.navbar {
+    font-family: Consolas, Monaco, monospace;
+    font-size: 18px;
+}
+
+.navbar-brand {
+    color: #333;
+    font-size: 30px;
+}
+
+a {
+    color: dimgrey;
+    font-weight: 400;
+}
